@@ -2,4 +2,4 @@ from main import *
 
 
 def test_suma():
-    assert suma(3,2) == 5
+    assert suma(20,20) == 40
